@@ -1,4 +1,4 @@
-[
+export const Data = [
     {
         "id": 1,
         "name": "La comunidad del anillo",
@@ -41,4 +41,4 @@
         "price": 450,
         "img": "https://th.bing.com/th/id/OIP.l_af_-qu9Pnc9wZfFmMQJADNEw?w=189&h=280&c=7&r=0&o=5&dpr=1.5&pid=1.7"
     }
-]
+];
